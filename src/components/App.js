@@ -9,6 +9,7 @@ const App = () => {
     return(
        
         <div>  
+            <h1>Hey there what is happening !!!</h1>
             <UserList/>
             <div>
             <button onClick={()=>setResource('posts')}>Posts</button>
